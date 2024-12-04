@@ -28,4 +28,8 @@ void modulus(double a , double b, double c) {
         int hasil = a % b;
         System.out.println("Hasil modulus : " + hasil);
     }
+
+    int operasiGabungan(int a,int b, int c){
+        return a + b - c;
+    }
 }

@@ -41,5 +41,8 @@ public class mtkoverberaksi {
         MTKOVER.modulus(12, 28, 14);
         MTKOVER.modulus(23,24);
         MTKOVER.modulus(3.4 , 4.9);
+
+        System.out.println("\Hasil Operasi Pengabungan : " + MTKOVER.operasiGabungan(5,5,3));
+
     }
 }
